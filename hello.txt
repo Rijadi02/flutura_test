@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello 3
+=======
+hello 2
+>>>>>>> 4a3660c315a85ba47112cfecef71dde591a051a1
 
 
 asjdoiasjdio
